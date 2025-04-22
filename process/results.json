@@ -1,0 +1,121 @@
+{
+    "results": [
+        {
+            "key": "A",
+            "POST Response": {
+                "text": "OK"
+            },
+            "POST Latency": 0.027033567428588867,
+            "GET Response": {
+                "text": "{\"value\":\"1\",\"timestamp\":1717739152069}"
+            },
+            "GET Latency": 0.013006925582885742,
+            "DELETE Response": {
+                "text": "OK"
+            },
+            "DELETE Latency": 0.009002923965454102
+        },
+        {
+            "key": "B",
+            "POST Response": {
+                "text": "OK"
+            },
+            "POST Latency": 0.010009527206420898,
+            "GET Response": {
+                "text": "{\"value\":\"2\",\"timestamp\":1717739158132}"
+            },
+            "GET Latency": 0.008249759674072266,
+            "DELETE Response": {
+                "text": "OK"
+            },
+            "DELETE Latency": 0.011830329895019531
+        },
+        {
+            "key": "C",
+            "POST Response": {
+                "text": "OK"
+            },
+            "POST Latency": 0.012018680572509766,
+            "GET Response": {
+                "text": "{\"value\":\"3\",\"timestamp\":1717739164178}"
+            },
+            "GET Latency": 0.010999679565429688,
+            "DELETE Response": {
+                "text": "OK"
+            },
+            "DELETE Latency": 0.012001991271972656
+        },
+        {
+            "key": "D",
+            "POST Response": {
+                "text": "OK"
+            },
+            "POST Latency": 0.010041952133178711,
+            "GET Response": {
+                "text": "{\"value\":\"4\",\"timestamp\":1717739170241}"
+            },
+            "GET Latency": 0.015532255172729492,
+            "DELETE Response": {
+                "text": "OK"
+            },
+            "DELETE Latency": 0.010008811950683594
+        },
+        {
+            "key": "E",
+            "POST Response": {
+                "text": "OK"
+            },
+            "POST Latency": 0.01060032844543457,
+            "GET Response": {
+                "text": "{\"value\":\"5\",\"timestamp\":1717739176295}"
+            },
+            "GET Latency": 0.0070421695709228516,
+            "DELETE Response": {
+                "text": "OK"
+            },
+            "DELETE Latency": 0.009025096893310547
+        },
+        {
+            "key": "F",
+            "POST Response": {
+                "text": "OK"
+            },
+            "POST Latency": 0.012568473815917969,
+            "GET Response": {
+                "text": "{\"value\":\"6\",\"timestamp\":1717739182362}"
+            },
+            "GET Latency": 0.010261058807373047,
+            "DELETE Response": {
+                "text": "OK"
+            },
+            "DELETE Latency": 0.010039567947387695
+        },
+        {
+            "key": "G",
+            "POST Response": {
+                "text": "OK"
+            },
+            "POST Latency": 0.01104283332824707,
+            "GET Response": {
+                "text": "{\"value\":\"7\",\"timestamp\":1717739188408}"
+            },
+            "GET Latency": 0.010010004043579102,
+            "DELETE Response": {
+                "text": "OK"
+            },
+            "DELETE Latency": 0.011982440948486328
+        }
+    ],
+    "performance_metrics": {
+        "Total elapsed time": 42.42323851585388,
+        "Throughput": 0.49501171373685066,
+        "Success rate": 1.0,
+        "Error rate": 0.0,
+        "Response Time Distribution": {
+            "mean": 0.011538494200933547,
+            "median": 0.01060032844543457,
+            "90th_percentile": 0.013006925582885742,
+            "99th_percentile": 0.024733304977417
+        }
+    }
+}
